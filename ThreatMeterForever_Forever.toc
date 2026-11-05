@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: |cff00ccffThreat Meter|r Forever
+## Notes: Live group threat meter for WoW Classic Forever: bars, percents, and pull thresholds.
+## Author: Terciob, Foofi
+## Version: 1.2.2
+## SavedVariables: DetailsTinyThreatDB
+## IconTexture: Interface\AddOns\ThreatMeterForever\Logo.png
+## Category-enUS: Combat
+## Category-deDE: Kampf
+## Category-frFR: Combat
+## Category-esES: Combate
+## Category-zhCN: 战斗
+## Category-zhTW: 戰鬥
+## X-Flavor: Forever
+
+ThreatMeterForever.lua
+Options.lua
+Plates.lua
